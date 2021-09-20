@@ -1,4 +1,4 @@
-# Challenge Adidas
+# Challenge
 
 This challenge was made by Gil Araujo
 
